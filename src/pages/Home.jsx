@@ -44,7 +44,7 @@ export default function Home() {
                   marginTop: "1em",
                   textAlign: "center",
                   padding: "1em 0em",
-                  fontSize: "1.2em"
+                  fontSize: "1.1em"
                }}>
                Adicione uma tarefa acima para aparecer aqui.
             </Paper>}
